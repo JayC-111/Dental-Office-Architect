@@ -1,7 +1,7 @@
 # Dental Office Network Upgrade
 I helped a small dental office upgrade their old messy network to a fast, secure, and professioinal system.
 
-## What wWe Built
+## What We Built
 -Fast Fiber Internet from Spectrum
 -New secure router + firewall (for remote access)
 1 Wifi Access Point (good coverage in all rooms)
