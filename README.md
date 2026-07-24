@@ -4,15 +4,15 @@ I helped a small dental office upgrade their old messy network to a fast, secure
 ## What We Built
 -Fast Fiber Internet from Spectrum
 -New secure router + firewall (for remote access)
-1 Wifi Access Point (good coverage in all rooms)
-24-port network switch
+-1 Wifi Access Point (good coverage in all rooms)
+-24-port network switch
 -Clean cable management
 
 ## Why We Did This
 -Better speed for X-ray machines, softwares and computers
 -Secure remote access from home
-- Seperate networks for staff and guests (patient privacy)
-- Room to grow in the future
+-Seperate networks for staff and guests (patient privacy)
+-Room to grow in the future
 
 ## Tools We Used
 -Ubiquiti Dream Machine Pro (router + firewall)
